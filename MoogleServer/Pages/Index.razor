@@ -26,10 +26,11 @@
 </ul>
 
 @code {
+    private PlainLoader database = new PlainLoader();
     private string query = "";
     private SearchResult result = new SearchResult();
 
     private void RunQuery() {
-        result = Moogle.Query(query);
+        result = Moogle.Query(query, database);
     }
 }

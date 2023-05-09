@@ -1,0 +1,150 @@
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleServer/bin/Debug/net6.0/appsettings.Development.json
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleServer/bin/Debug/net6.0/appsettings.json
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleServer/bin/Debug/net6.0/MoogleServer.staticwebassets.runtime.json
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleServer/bin/Debug/net6.0/MoogleServer
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleServer/bin/Debug/net6.0/MoogleServer.deps.json
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleServer/bin/Debug/net6.0/MoogleServer.runtimeconfig.json
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleServer/bin/Debug/net6.0/MoogleServer.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleServer/bin/Debug/net6.0/ref/MoogleServer.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleServer/bin/Debug/net6.0/MoogleServer.pdb
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleServer/bin/Debug/net6.0/MoogleEngine.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleServer/bin/Debug/net6.0/MoogleEngine.pdb
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.AssemblyReference.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleServer/obj/Debug/net6.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfoInputs.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfo.cs
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleServer/obj/Debug/net6.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cs
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleServer/obj/Debug/net6.0/staticwebassets.build.json
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleServer/obj/Debug/net6.0/staticwebassets.development.json
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleServer/obj/Debug/net6.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleServer/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleServer/obj/Debug/net6.0/scopedcss/bundle/MoogleServer.styles.css
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleServer/obj/Debug/net6.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CopyComplete
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleServer/obj/Debug/net6.0/MoogleServer.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleServer/obj/Debug/net6.0/ref/MoogleServer.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleServer/obj/Debug/net6.0/MoogleServer.pdb
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleServer/obj/Debug/net6.0/MoogleServer.genruntimeconfig.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleServer/bin/Debug/net6.0/appsettings.Development.json
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleServer/bin/Debug/net6.0/appsettings.json
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleServer/bin/Debug/net6.0/MoogleServer.staticwebassets.runtime.json
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleServer/bin/Debug/net6.0/MoogleServer
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleServer/bin/Debug/net6.0/MoogleServer.deps.json
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleServer/bin/Debug/net6.0/MoogleServer.runtimeconfig.json
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleServer/bin/Debug/net6.0/MoogleServer.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleServer/bin/Debug/net6.0/ref/MoogleServer.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleServer/bin/Debug/net6.0/MoogleServer.pdb
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleServer/bin/Debug/net6.0/MoogleEngine.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleServer/bin/Debug/net6.0/MoogleEngine.pdb
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.AssemblyReference.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleServer/obj/Debug/net6.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfoInputs.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfo.cs
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleServer/obj/Debug/net6.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cs
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleServer/obj/Debug/net6.0/staticwebassets.build.json
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleServer/obj/Debug/net6.0/staticwebassets.development.json
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleServer/obj/Debug/net6.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleServer/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleServer/obj/Debug/net6.0/scopedcss/bundle/MoogleServer.styles.css
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleServer/obj/Debug/net6.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CopyComplete
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleServer/obj/Debug/net6.0/MoogleServer.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleServer/obj/Debug/net6.0/ref/MoogleServer.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleServer/obj/Debug/net6.0/MoogleServer.pdb
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleServer/obj/Debug/net6.0/MoogleServer.genruntimeconfig.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/bin/Debug/net6.0/appsettings.Development.json
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/bin/Debug/net6.0/appsettings.json
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/bin/Debug/net6.0/MoogleServer.staticwebassets.runtime.json
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/bin/Debug/net6.0/MoogleServer
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/bin/Debug/net6.0/MoogleServer.deps.json
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/bin/Debug/net6.0/MoogleServer.runtimeconfig.json
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/bin/Debug/net6.0/MoogleServer.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/bin/Debug/net6.0/ref/MoogleServer.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/bin/Debug/net6.0/MoogleServer.pdb
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/bin/Debug/net6.0/MoogleEngine.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/bin/Debug/net6.0/MoogleEngine.pdb
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.AssemblyReference.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfoInputs.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfo.cs
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cs
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/staticwebassets.build.json
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/staticwebassets.development.json
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/scopedcss/bundle/MoogleServer.styles.css
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CopyComplete
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/MoogleServer.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/ref/MoogleServer.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/MoogleServer.pdb
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/MoogleServer.genruntimeconfig.cache
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/bin/Debug/net6.0/appsettings.Development.json
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/bin/Debug/net6.0/appsettings.json
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/bin/Debug/net6.0/MoogleServer.staticwebassets.runtime.json
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/bin/Debug/net6.0/MoogleServer
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/bin/Debug/net6.0/MoogleServer.deps.json
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/bin/Debug/net6.0/MoogleServer.runtimeconfig.json
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/bin/Debug/net6.0/MoogleServer.dll
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/bin/Debug/net6.0/ref/MoogleServer.dll
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/bin/Debug/net6.0/MoogleServer.pdb
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/bin/Debug/net6.0/MoogleEngine.dll
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/bin/Debug/net6.0/MoogleEngine.pdb
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.AssemblyReference.cache
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfoInputs.cache
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/MoogleServer.AssemblyInfo.cs
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CoreCompileInputs.cache
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cache
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/MoogleServer.RazorAssemblyInfo.cs
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/staticwebassets.build.json
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/staticwebassets.development.json
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/scopedcss/Pages/Index.razor.rz.scp.css
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/scopedcss/bundle/MoogleServer.styles.css
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/scopedcss/projectbundle/MoogleServer.bundle.scp.css
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/MoogleServer.csproj.CopyComplete
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/MoogleServer.dll
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/ref/MoogleServer.dll
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/MoogleServer.pdb
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleServer/obj/Debug/net6.0/MoogleServer.genruntimeconfig.cache
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleSErver\bin\Debug\net6.0\appsettings.Development.json
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleSErver\bin\Debug\net6.0\appsettings.json
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleSErver\bin\Debug\net6.0\MoogleServer.staticwebassets.runtime.json
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleSErver\bin\Debug\net6.0\MoogleServer.exe
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleSErver\bin\Debug\net6.0\MoogleServer.deps.json
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleSErver\bin\Debug\net6.0\MoogleServer.runtimeconfig.json
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleSErver\bin\Debug\net6.0\MoogleServer.dll
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleSErver\bin\Debug\net6.0\ref\MoogleServer.dll
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleSErver\bin\Debug\net6.0\MoogleServer.pdb
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleSErver\bin\Debug\net6.0\MoogleEngine.dll
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleSErver\bin\Debug\net6.0\MoogleEngine.pdb
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleSErver\obj\Debug\net6.0\MoogleServer.csproj.AssemblyReference.cache
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleSErver\obj\Debug\net6.0\MoogleServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleSErver\obj\Debug\net6.0\MoogleServer.AssemblyInfoInputs.cache
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleSErver\obj\Debug\net6.0\MoogleServer.AssemblyInfo.cs
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleSErver\obj\Debug\net6.0\MoogleServer.csproj.CoreCompileInputs.cache
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleSErver\obj\Debug\net6.0\MoogleServer.MvcApplicationPartsAssemblyInfo.cache
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleSErver\obj\Debug\net6.0\MoogleServer.RazorAssemblyInfo.cache
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleSErver\obj\Debug\net6.0\MoogleServer.RazorAssemblyInfo.cs
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleSErver\obj\Debug\net6.0\staticwebassets.build.json
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleSErver\obj\Debug\net6.0\staticwebassets.development.json
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleSErver\obj\Debug\net6.0\scopedcss\Pages\Index.razor.rz.scp.css
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleSErver\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleSErver\obj\Debug\net6.0\scopedcss\bundle\MoogleServer.styles.css
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleSErver\obj\Debug\net6.0\scopedcss\projectbundle\MoogleServer.bundle.scp.css
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleSErver\obj\Debug\net6.0\MoogleServer.csproj.CopyComplete
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleSErver\obj\Debug\net6.0\MoogleServer.dll
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleSErver\obj\Debug\net6.0\ref\MoogleServer.dll
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleSErver\obj\Debug\net6.0\MoogleServer.pdb
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleSErver\obj\Debug\net6.0\MoogleServer.genruntimeconfig.cache

@@ -1,0 +1,60 @@
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleEngine/bin/Debug/net6.0/MoogleEngine.deps.json
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleEngine/bin/Debug/net6.0/MoogleEngine.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleEngine/bin/Debug/net6.0/ref/MoogleEngine.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleEngine/bin/Debug/net6.0/MoogleEngine.pdb
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.AssemblyReference.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfoInputs.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfo.cs
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.CoreCompileInputs.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/ref/MoogleEngine.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.pdb
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleEngine/bin/Debug/net6.0/MoogleEngine.deps.json
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleEngine/bin/Debug/net6.0/MoogleEngine.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleEngine/bin/Debug/net6.0/ref/MoogleEngine.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleEngine/bin/Debug/net6.0/MoogleEngine.pdb
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.AssemblyReference.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfoInputs.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfo.cs
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.CoreCompileInputs.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/ref/MoogleEngine.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Estudios Frankestains/First project moogle-2021/MoogleEngine/obj/Debug/net6.0/MoogleEngine.pdb
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleEngine/bin/Debug/net6.0/MoogleEngine.deps.json
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleEngine/bin/Debug/net6.0/MoogleEngine.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleEngine/bin/Debug/net6.0/ref/MoogleEngine.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleEngine/bin/Debug/net6.0/MoogleEngine.pdb
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.AssemblyReference.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleEngine/obj/Debug/net6.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfoInputs.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfo.cs
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.CoreCompileInputs.cache
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleEngine/obj/Debug/net6.0/MoogleEngine.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleEngine/obj/Debug/net6.0/ref/MoogleEngine.dll
+/home/jose/Documents/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleEngine/obj/Debug/net6.0/MoogleEngine.pdb
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleEngine/bin/Debug/net6.0/MoogleEngine.deps.json
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleEngine/bin/Debug/net6.0/MoogleEngine.dll
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleEngine/bin/Debug/net6.0/ref/MoogleEngine.dll
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleEngine/bin/Debug/net6.0/MoogleEngine.pdb
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.AssemblyReference.cache
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleEngine/obj/Debug/net6.0/MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfoInputs.cache
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleEngine/obj/Debug/net6.0/MoogleEngine.AssemblyInfo.cs
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleEngine/obj/Debug/net6.0/MoogleEngine.csproj.CoreCompileInputs.cache
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleEngine/obj/Debug/net6.0/MoogleEngine.dll
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleEngine/obj/Debug/net6.0/ref/MoogleEngine.dll
+/home/oem/Documentos/Universidad/Programacion/Proyectos/Moogle/Hermes/MoogleEngine/obj/Debug/net6.0/MoogleEngine.pdb
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleEngine\bin\Debug\net6.0\ref\MoogleEngine.dll
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.AssemblyReference.cache
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
+D:\melissapo\escuela\Programacion\Moogle Melissa\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb

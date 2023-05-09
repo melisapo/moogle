@@ -1,17 +1,28 @@
-﻿namespace MoogleEngine;
-
-
-public static class Moogle
+﻿namespace MoogleEngine
 {
-    public static SearchResult Query(string query) {
-        // Modifique este método para responder a la búsqueda
+    public static class Moogle
+{
+    public static SearchResult Query(string query, PlainLoader database) 
+    {
+        var Tupla1 = database.Information ;
+        var Documents = Tupla1.Item1;
+        var TWords =Tupla1.Item2;
+        var Tupla2 = QueryDocument.QDocument(query);
+        var Query = Tupla2.Item1;
+        var Operators = Tupla2.Item2;
+        var Tupla3=Suggestion.suggestion(Query,TWords,query);
+        var Suggest=Tupla3.Item1;
+        Base.ReviseQuery( Query,Tupla3.Item2);
+        Base.Filter(Operators, Documents,query,  TWords);
+        var Scores = Score.score(Query,Documents,TWords,Operators,query);
+        var SRanking = Base.ScoreRanking(Scores);
+        var Snippets = Snippet.GSnippet(Query,Documents,TWords,Scores,SRanking);
+        var items = Items.Getitems(Snippets,Scores,SRanking);
+        
 
-        SearchItem[] items = new SearchItem[3] {
-            new SearchItem("Hello World", "Lorem ipsum dolor sit amet", 0.9f),
-            new SearchItem("Hello World", "Lorem ipsum dolor sit amet", 0.5f),
-            new SearchItem("Hello World", "Lorem ipsum dolor sit amet", 0.1f),
-        };
-
-        return new SearchResult(items, query);
+        return new SearchResult(items, Suggest);
     }
+   
+
+}
 }

@@ -1,4 +1,5 @@
-namespace MoogleEngine;
+namespace MoogleEngine
+{
 
 public class SearchResult
 {
@@ -6,7 +7,8 @@ public class SearchResult
 
     public SearchResult(SearchItem[] items, string suggestion="")
     {
-        if (items == null) {
+        if (items == null) 
+        {
             throw new ArgumentNullException("items");
         }
 
@@ -25,4 +27,5 @@ public class SearchResult
     }
 
     public int Count { get { return this.items.Length; } }
+}
 }
